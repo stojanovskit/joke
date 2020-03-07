@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+background-image: url(https://www.featurepics.com/StockImage/20100228/abstract-blue-sparkles-stock-picture-1473688.jpg);
+background-size:cover;
+  }
+header{
+  background-color: #3C5A9A;
+  color:#EDF0F5;
+margin: 0;
+display: inline-flex;
+width:100%;
+
+
+}
+h1{
+  margin: 0;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+
+}
+nav{
+/*  margin: 0; */
+  display: inline-flex;
+  position: absolute;
+  right: 0;
+    margin:15px;
+padding: 15px 0;
+}
+.login{
+  margin:0 5px;
+}
